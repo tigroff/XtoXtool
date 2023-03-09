@@ -1,0 +1,7 @@
+D:\XtoXtool\XtoXtool.exe
+D:\XtoXtool\XtoXtool.dll
+D:\XtoXtool\XtoXtool.deps.json
+D:\XtoXtool\XtoXtool.runtimeconfig.json
+D:\XtoXtool\XtoXtool.pdb
+D:\XtoXtool\Interop.Microsoft.Office.Interop.Excel.dll
+D:\XtoXtool\dBASE.NET.dll
